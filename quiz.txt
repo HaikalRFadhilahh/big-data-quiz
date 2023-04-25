@@ -1,0 +1,17 @@
+Tugas
+
+Dari file dataset order.csv yang ada di classroom, hitung dan carilah detail
+berikut ini:
+
+1. Mean price yang dibayar customer dari masing-masing metode pembayaran.
+
+2. Berapa jumlah order yang statusnya canceled
+
+3. Berapakah rata-rata jumlah (quantity) dari pembelian product electronics
+
+4. Product category apa yang jumlah (quantity) terbanyak dalam transaksi?
+
+Berapakah jumlah nya
+
+5. Product category apa yang memiliki rataan paling berat
+(product_weight_gram)? Berapakah berat rata-rata nya
